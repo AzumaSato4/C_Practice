@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chinc\\source\\repos\\Practice02\\Practice02\\Practice02.csproj",
+      "projectUniqueName": "C:\\Users\\chinc\\source\\repos\\Practice\\Practice02\\Practice02\\Practice02.csproj",
       "projectName": "Practice02",
-      "projectPath": "C:\\Users\\chinc\\source\\repos\\Practice02\\Practice02\\Practice02.csproj",
+      "projectPath": "C:\\Users\\chinc\\source\\repos\\Practice\\Practice02\\Practice02\\Practice02.csproj",
       "packagesPath": "C:\\Users\\chinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chinc\\source\\repos\\Practice02\\Practice02\\obj\\",
+      "outputPath": "C:\\Users\\chinc\\source\\repos\\Practice\\Practice02\\Practice02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
