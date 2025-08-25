@@ -1,0 +1,15 @@
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.AssemblyInfoInputs.cache
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.AssemblyInfo.cs
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.sourcelink.json
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.exe
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.deps.json
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.runtimeconfig.json
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.dll
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.pdb
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.dll
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\refint\Omikuji.dll
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.pdb
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.genruntimeconfig.cache
+C:\Users\chinc\source\repos\Practice\Omikuji\Omikuji\obj\Debug\net8.0\ref\Omikuji.dll
