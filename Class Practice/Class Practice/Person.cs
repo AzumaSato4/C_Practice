@@ -37,9 +37,9 @@ namespace Class_Practice
         public void InfoDisplay()
         {
             Console.WriteLine("--------------------------------------");
-            Console.WriteLine("名前" + name);
-            Console.WriteLine("名前" + level);
-            Console.WriteLine("名前" + hp);
+            Console.WriteLine("名前：" + name);
+            Console.WriteLine("レベル：" + level);
+            Console.WriteLine("体力：" + hp);
             Console.WriteLine(info);
         }
 
@@ -65,7 +65,8 @@ namespace Class_Practice
 
         //技をひとつ公表するメソッド
         //オーバーロードして引数あり、引数なし 2種類作っておく
-        public void AttacInfo(int x)
+        //継承先でオーバーライドされるメソッドの予定なのでvirtual宣言しておく
+        public virtual void AttackInfo(int x)
         {
             switch (x)
             {
@@ -78,7 +79,7 @@ namespace Class_Practice
             }
         }
 
-        public void AttackInfo()
+        public virtual void AttackInfo()
         {
             Console.WriteLine("渾身のタックル");
         }
