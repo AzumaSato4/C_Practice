@@ -9,10 +9,10 @@ namespace Class_Practice
     internal class Person
     {
         //変数
-        string name; //キャラの名前
-        int level; //レベル
-        int hp; //体力
-        string info = "ただの村人"; //キャラ属性の特徴
+        protected string name; //キャラの名前
+        protected int level; //レベル
+        protected int hp; //体力
+        protected string info = "ただの村人"; //キャラ属性の特徴
 
         //実体化にした際に基本的な情報は入るように設計
         //引数なしコンストラクタ
@@ -41,6 +41,46 @@ namespace Class_Practice
             Console.WriteLine("名前" + level);
             Console.WriteLine("名前" + hp);
             Console.WriteLine(info);
+        }
+
+        //名前を変更するメソッド
+        public void NameSet(string value)
+        {
+            name = value;
+        }
+
+        //HPを変更するメソッド
+        public void HPSet(int value)
+        {
+            hp = value;
+        }
+
+        //メンバ変数に干渉するためのプロパティ
+        //Nameという言い方ならnameに干渉できるように設計
+        public string Name
+        {
+            get { return name; } //読み取り機能 本来不干渉のnameの値をリターン（ゲット）
+            set { name = value; } //書き込み機能 本来不干渉のnameに「Nameに代入された値」を代入
+        }
+
+        //技をひとつ公表するメソッド
+        //オーバーロードして引数あり、引数なし 2種類作っておく
+        public void AttacInfo(int x)
+        {
+            switch (x)
+            {
+                case 1:
+                    Console.WriteLine("必殺の右ストレート");
+                    break;
+                default:
+                    Console.WriteLine("渾身のタックル");
+                    break;
+            }
+        }
+
+        public void AttackInfo()
+        {
+            Console.WriteLine("渾身のタックル");
         }
     }
 }
