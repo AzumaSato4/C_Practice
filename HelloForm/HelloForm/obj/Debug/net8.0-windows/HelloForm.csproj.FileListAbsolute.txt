@@ -1,0 +1,17 @@
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.Form1.resources
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.csproj.GenerateResource.cache
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.AssemblyInfoInputs.cache
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.AssemblyInfo.cs
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.sourcelink.json
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\bin\Debug\net8.0-windows\HelloForm.exe
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\bin\Debug\net8.0-windows\HelloForm.deps.json
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\bin\Debug\net8.0-windows\HelloForm.runtimeconfig.json
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\bin\Debug\net8.0-windows\HelloForm.dll
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\bin\Debug\net8.0-windows\HelloForm.pdb
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.dll
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\refint\HelloForm.dll
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.pdb
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\HelloForm.genruntimeconfig.cache
+C:\Users\chinc\source\repos\Practice\HelloForm\HelloForm\obj\Debug\net8.0-windows\ref\HelloForm.dll
